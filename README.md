@@ -1,5 +1,5 @@
 <h1>
-ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA
+ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA - Autora: Camila Cavalcante
 </h1>
 
 <p>Resolução dos exercícios propostos: <strong>ESTRUTURAS DE REPETIÇÃO E ARRAYS NA LINGUAGEM JAVA</strong>.
